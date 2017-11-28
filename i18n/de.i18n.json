@@ -1,8 +1,8 @@
 {
   // server
-  "service-name-is-required-for-gssapi":"Service name is required for GSSAPI connections",
-  "destination-port-is-required-for-ssh":"Destination port is required for SSH tunnel",
-  "username-is-required-for-ssh":"Username is required for SSH tunnel",
+  "service-name-is-required-for-gssapi":"Service name wird benötigtfür GSAPI Verbindungen",
+  "destination-port-is-required-for-ssh":"Destination port wird benötigt für SSH tunnel",
+  "username-is-required-for-ssh":"Nutzername wird benötigt für SSH tunnel",
   "host-is-required-for-ssh":"Host is required for SSH tunnel",
   "port-is-required-for-ssh":"Port is required for SSH tunnel",
   "certificate-or-password-is-required-for-ssh":"Certificate or password is required for SSH tunnel",
